@@ -72,6 +72,7 @@ const Login = () => {
         title: 'Invalid Data',
         message: data[key]
       })
+      localStorage.removeItem("authenticated")
       localStorage.removeItem("authorization")
     }
 	}
