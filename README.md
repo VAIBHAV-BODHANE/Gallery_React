@@ -71,33 +71,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Application Screenshots:
 
-![Alt text](https://pasteboard.co/cJoxNKjh4Iz7.png "Register Successful!")
+![Register Successful](https://i.postimg.cc/KzSb1r3t/image.png "Register Successful!")
 
 
-![Alt text](https://pasteboard.co/jmyeFaNjN8jH.png "Home Page")
+![Home Page](https://i.postimg.cc/QNqDM78W/image.png "Home Page")
 
 
-![Alt text](https://pasteboard.co/BlFejML5qnjq.png "Upload Image/Video")
+![Upload Image/Video](https://i.postimg.cc/CLK3L6rW/image.png "Upload Image/Video")
 
 
-![Alt text](https://pasteboard.co/SYxcUXIKhAdv.png "After Uploading Image")
+![After Uploading Image](https://i.postimg.cc/c1FzjB1T/image.png "After Uploading Image")
 
 
-![Alt text](https://pasteboard.co/gLaKtwI2o7wv.png "Info/ Delete Option")
+![Info/ Delete Optiont](https://i.postimg.cc/tgLqhGwZ/image.png "Info/ Delete Option")
 
 
-![Alt text](https://pasteboard.co/0G3YFWFsf08k.png "Information About Post")
+![Information About Post](https://i.postimg.cc/7h5nj7XQ/image.png "Information About Post")
 
 
-![Alt text](https://pasteboard.co/d0eGtIyt9gVG.png "Delete Confirmation")
+![Delete Confirmation](https://i.postimg.cc/rFt9J1DD/image.png "Delete Confirmation")
 
 
-![Alt text](https://pasteboard.co/3ymUl4SlGh8U.png "After deleting the post")
+![After deleting the pos](https://i.postimg.cc/dVjN22f8/image.png "After deleting the post")
 
 
-![Alt text](https://pasteboard.co/OZg8BBeHuszj.png "Unauthorized to delete the post")
+![Unauthorized to delete the post](https://i.postimg.cc/kGSfBK8R/image.png "Unauthorized to delete the post")
 
 
-![Alt text](https://pasteboard.co/HNEQC0nwvYh2.png "Logout")
-logout
-image.png
+![Logout](https://i.postimg.cc/cLhTgsKh/image.png "Logout")
