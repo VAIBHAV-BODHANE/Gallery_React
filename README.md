@@ -71,35 +71,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Application Screenshots:
 
-Login Page
-image.png
+![Alt text](https://pasteboard.co/cJoxNKjh4Iz7.png "Register Successful!")
 
-Register Successful!
-image.png
 
-Home Page
-image.png
+![Alt text](https://pasteboard.co/jmyeFaNjN8jH.png "Home Page")
 
-Upload Image/Video
-image.png
 
-After Uploading Image
-image.png
+![Alt text](https://pasteboard.co/BlFejML5qnjq.png "Upload Image/Video")
 
-Info/ Delete Option
-image.png
 
-Information About Post
-image.png
+![Alt text](https://pasteboard.co/SYxcUXIKhAdv.png "After Uploading Image")
 
-Delete Confirmation
-image.png
 
-After deleting the post
-image.png
+![Alt text](https://pasteboard.co/gLaKtwI2o7wv.png "Info/ Delete Option")
 
-Unauthorized to delete the post
-image.png
 
+![Alt text](https://pasteboard.co/0G3YFWFsf08k.png "Information About Post")
+
+
+![Alt text](https://pasteboard.co/d0eGtIyt9gVG.png "Delete Confirmation")
+
+
+![Alt text](https://pasteboard.co/3ymUl4SlGh8U.png "After deleting the post")
+
+
+![Alt text](https://pasteboard.co/OZg8BBeHuszj.png "Unauthorized to delete the post")
+
+
+![Alt text](https://pasteboard.co/HNEQC0nwvYh2.png "Logout")
 logout
 image.png
