@@ -1,0 +1,70 @@
+@media (min-width: 768px) {
+  .modal {
+    left: calc(50% - 20rem);
+    width: 40rem;
+  }
+}
+
+.user-form__button {
+  margin: 20px 0;
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.user-form__button button {
+  background-color: none;
+  font-size: 20px;
+  color: #680386;
+  border:1px solid #680386;
+  padding: 5px 20px;
+  border-radius: 3px;
+}
+.user-form__button button:hover {
+  background-color: #8002a7;
+  color: white;
+}
+
+.user-form__cancel {
+  margin-right: 10px;
+}
+
+.form{
+  background-color: white;
+}
+
+.user-form {
+  background-color: white;
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.user-form__label {
+  color: black;
+  font-weight: bold;
+  text-align: left;
+  font-size: 14px;
+  padding: 5px 0;
+}
+
+.user-form__input input[type=text] {
+  width: 100%;
+  padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border:1px solid #ccc;
+  outline: None;
+}
+
+.user-form__input input[type=file] {
+  width: 100%;
+  padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border:1px solid #ccc;
+  outline: None;
+}
+
+.user-form__input input[type=text]:focus {
+  border:1px solid #680386;
+}

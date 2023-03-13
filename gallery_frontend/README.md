@@ -1,4 +1,4 @@
-# Gallery Manager React
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,38 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Application Screenshots:
-
-Login Page
-image.png
-
-Register Successful!
-image.png
-
-Home Page
-image.png
-
-Upload Image/Video
-image.png
-
-After Uploading Image
-image.png
-
-Info/ Delete Option
-image.png
-
-Information About Post
-image.png
-
-Delete Confirmation
-image.png
-
-After deleting the post
-image.png
-
-Unauthorized to delete the post
-image.png
-
-logout
-image.png
